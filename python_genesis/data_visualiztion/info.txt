@@ -1,0 +1,6 @@
+Histogram
+
+2021   some district 
+
+total 
+bandwidth = 5, 10

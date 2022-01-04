@@ -1,0 +1,5 @@
+110年8月,Car Light System,5534
+110年8月,Transmission System,7492
+110年8月,Rotation System,10
+110年8月,Frame System,11
+110年8月,Machinery,175
